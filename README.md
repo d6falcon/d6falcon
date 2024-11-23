@@ -1,7 +1,7 @@
 ## Hi there 👋
----
 
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Oxanium&size=35&color=4440FF&duration=4000&pause=350&center=true&random=false&width=1200&lines=$+Hands+On+Cybersecurity+guy+that+can+Defend+and+Attack;)](https://git.io/typing-svg)
+
 ---
 - 🔭 I’m currently working on Pi Pico
 - 🤝 I’m looking to collaborate on anything Cybersecurity
