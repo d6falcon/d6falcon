@@ -3,8 +3,8 @@
 
 
 ## Hi there 👋
-- 🔭 I’m currently working on Pi Pico
-- 🤝 I’m looking to collaborate on anything Cybersecurity
+- 🔭 I’m currently working on Pi Pico to leverage a Cloud Provider, Blockchain technology in order to create a robust and secure IoT ecosystem
+- 🤝 I’m looking to collaborate on anything Cyber/IoT/Blockchain technologies
 - 🌱 I’m currently improving my Python skills
 - 💬 Ask me about Cybersecurity[OT, Cloud & Onprem]
 - 📫 How to reach me: Here/Linkedin/Discord
